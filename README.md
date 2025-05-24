@@ -1,2 +1,2 @@
 # Ecommerce-Dataset
-data cleaning and visualization on Ecommerce data set 
+Data cleaning and visualization on Ecommerce data set 
